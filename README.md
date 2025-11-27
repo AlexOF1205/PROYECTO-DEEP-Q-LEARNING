@@ -39,6 +39,14 @@ A conuación descargar el acrhivo dqn.yml y la carpeta logs\dqn
 
     python -m rl_zoo3.enjoy --algo dqn --env ALE/Alien-v5  -f logs/ 
 
+## Extra
+
+
+### logs.zip
+    https://drive.google.com/file/d/1nMgWjX5WJfNLg4ZXB7QYEox4VWHHISBq/view?usp=sharing
+### entorno virtual
+    
+
 
 
 
